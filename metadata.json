@@ -1,0 +1,6 @@
+{
+  "name": "MD LUKMAN PYTHON AI",
+  "description": "Your Personal AI Python Teacher with complete 30-chapter course in Hindi & English, interactive code editor, AI error solver, and examinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
